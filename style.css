@@ -86,3 +86,10 @@ body {
     .social-links img:hover {
     transform: scale(1.1);
     }
+
+    .banner{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+
+    }
