@@ -93,3 +93,21 @@ body {
     width: 100%;
 
     }
+
+    .rodTXT{ 
+        height: 11px;
+        color: #fcfcfc;
+        font-size: small;
+        display: flex;
+        justify-content: center;
+    }
+
+    .rodape{
+        background-color: rgb(58, 58, 58);
+    padding: 20px 0px;
+}
+    
+footer{
+    display: block;
+    unicode-bidi: isolate;
+}
