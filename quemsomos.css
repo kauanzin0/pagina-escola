@@ -108,3 +108,9 @@ body {
         justify-content: center;
         width: 100%;
     }
+
+    .sobre{
+    display: flex;
+    justify-content: center;
+
+    }
