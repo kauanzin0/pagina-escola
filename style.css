@@ -104,10 +104,6 @@ body {
 
     .rodape{
         background-color: rgb(58, 58, 58);
-    padding: 20px 0px;
+        width: 100%;
 }
     
-footer{
-    display: block;
-    unicode-bidi: isolate;
-}
