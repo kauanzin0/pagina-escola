@@ -15,8 +15,7 @@ body {
 
 .list{ 
     display: flex;
-    justify-content: center;
-    padding: 70px
+    justify-content: space-between;
 }
 
 .tt{
