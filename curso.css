@@ -2,7 +2,7 @@ body {
     margin: 0;
     padding: 0;
     font-family: Arial, sans-serif;
-    background-color: mistyrose;
+    background-color: #d3bcba;
 }
 
 
@@ -22,4 +22,8 @@ body {
 .tt{
     display: flex;
     justify-content: center;
+}
+
+.nave{
+    background-color: azure;
 }
